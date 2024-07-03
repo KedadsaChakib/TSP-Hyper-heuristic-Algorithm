@@ -27,11 +27,7 @@ By combining ACO and TS-ILS concepts, this repository offers versatile solutions
 
 For detailed implementation and usage instructions, please refer to the respective directories for each hyper-heuristic solution.
 
-**Scientific Article:** [Link to the scientific article](https://drive.google.com/file/d/1dCpFzAqxaD0FcdJBgiACNkJDYvn4bSdu/view?usp=sharing) (Published in the International Journal of Advanced Computer Science and Applications, 2023)
+**Scientific Article:** [Link to the scientific article](https://drive.google.com/file/d/1dCpFzAqxaD0FcdJBgiACNkJDYvn4bSdu/view?usp=sharing) 
 
 
-Specify your project's license here.
 
----
-
-Feel free to customize the sections and add more details as necessary. This structure provides a clear overview of your project and its components.
